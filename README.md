@@ -1,4 +1,3 @@
-👋 Hey there, @shettyroh895! Your enthusiasm for coding creativity is infectious! Let's sprinkle some extra creativity into your GitHub profile to make it shine even brighter.
 
 ### About Me 🚀
 Hey! I'm Rohan, a coding enthusiast embarking on an exciting journey into the realms of web development with HTML and CSS. 🎨 The digital canvas is my playground, and I'm on a mission to infuse every pixel with innovation and flair.
